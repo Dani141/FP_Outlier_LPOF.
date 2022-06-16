@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LPOF:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LPOF_jar</output-path>
+    <root id="archive" name="LPOF.jar">
+      <element id="module-output" name="LPOF" />
+    </root>
+  </artifact>
+</component>
